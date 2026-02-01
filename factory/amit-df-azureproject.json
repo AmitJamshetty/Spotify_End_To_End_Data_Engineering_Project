@@ -1,0 +1,9 @@
+{
+	"name": "amit-df-azureproject",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c721596f-bb54-4b7d-9138-6428933ae872",
+		"tenantId": "211aeafa-49e5-4b04-b4b9-7623d02454e2"
+	}
+}
